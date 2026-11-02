@@ -1,0 +1,16 @@
+{
+  "display_name": "钉钉 · 桌面聊天美化",
+  "loading_order": 11000,
+  "requires": [],
+  "optional": [],
+  "js": "index.js?v=1.0.3",
+  "css": "style.css?v=1.0.3",
+  "author": "Lucas",
+  "version": "1.0.3",
+  "minimum_client_version": "1.19.0",
+  "auto_update": false,
+  "hooks": {
+    "enable": "onEnable",
+    "disable": "onDisable"
+  }
+}
